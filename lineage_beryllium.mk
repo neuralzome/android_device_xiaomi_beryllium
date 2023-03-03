@@ -13,7 +13,7 @@ $(call inherit-product, vendor/lineage/config/floedge_target.mk)
 PRODUCT_NAME := lineage_beryllium
 PRODUCT_DEVICE := beryllium
 PRODUCT_BRAND := FloMobility
-PRODUCT_MODEL := FloEdge
+PRODUCT_MODEL := Flo Edge One
 PRODUCT_MANUFACTURER := FloMobility
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi-rev1
